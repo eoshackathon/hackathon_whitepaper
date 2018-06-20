@@ -63,7 +63,7 @@
 每场赛事有赛事奖励，该奖励通过eosio积分形式，在团队确定后，由统计员为每个团队记录发放数量。（或者发放到各团队负责人ERC20钱包中）
 
 每个团队的eosio数量由每场比赛的赛事奖励总量的2/3，除以团队数，取整后得到。
-每场赛事奖励总量见[《EOSIO Token Plan》](https://github.com/eoshackathon/hackathon_whitepaper/blob/master/token_plan)
+每场赛事奖励总量见[《EOSIO Token Plan》](https://github.com/eoshackathon/hackathon_whitepaper/blob/master/token_plan.md)
 
 ![](http://images.laidingyi.com/18-6-20/92025366.jpg)
 
