@@ -140,8 +140,6 @@ eosio由各个团队在比赛结束，并收到主办方代币后，在团队内
 * 媒体
 * 评委
 * 赞助方
-* 运营团队
-* 主办与协办方
 
 具体分配方法，见[《EOSIO Token Plan》](https://github.com/eoshackathon/hackathon_whitepaper/blob/master/token_plan.md)，以及[《白皮书》](https://github.com/eoshackathon/hackathon_whitepaper)。
 
