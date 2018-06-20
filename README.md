@@ -384,7 +384,7 @@ EOS的单链性能较高，但其特殊的设计机制，将使得其在资源�
 
 （上图是2.8亿枚累计发放图。横轴是场次，纵轴是累计发放量。）
 
-详细每场分配表，[点击这里](https://github.com/eoshackathon/)
+详细每场分配表，[点击这里](https://github.com/eoshackathon/hackathon_whitepaper/blob/master/token_plan)
 
 
 ***积分分发和使用的最终解释权归主办方。***
