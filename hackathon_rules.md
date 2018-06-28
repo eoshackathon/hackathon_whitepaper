@@ -160,14 +160,3 @@ c- 无论是请求外援还是向其他团队请求支持，都从正赛开始�
 
 具体分配方法，见[《EOSIO Token Plan》](https://github.com/eoshackathon/hackathon_whitepaper/blob/master/token_plan.md)，以及[《白皮书》](https://github.com/eoshackathon/hackathon_whitepaper)。
 
-### 七、注意事项
-#### 1- 因赛事会在晚上进行，请各位参赛者注意各安全事项。
-
-#### 2- 参赛者的餐饮自理，组委会会提供津贴，根据不同城市在￥100-￥150元左右，在签到时发放。
-
-#### 3- 如身体不适，请与工作人员联系，切勿隐瞒。
-
-#### 4- 城市合伙人提供少量的便携式床，每组一张。
-
-#### 5- 原则上整个赛程都应在赛场内部进行，期间不建议外出。
-
